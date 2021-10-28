@@ -7,11 +7,11 @@
 </div>
 
 
-<!-- ABOUT ME
-<div align=center><h3>🌻ME🌻</div>
-<div align=center><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a></div>
+<!-- ABOUT ME -->
+<div align=center><h3>🌻ABOUT ME🌻</div>
+<div align=center>
+<a href="https://juubii.tistory.com/"> <img src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://byul91oh.tistory.com/" style="height : auto; margin-left : 10px; margin-right : 10px;"/> </a> <a href="https://instagram.com/jooobidubabba/"> <img src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/fivepxint/" style="height : auto; margin-left : 10px; margin-right : 10px;"/> </a> </div>
 
-[![Generic badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/jooobidubabba/) -->
 
 # PROJECT
 - [fingerPOSErecognition](https://github.com/LeeeJooo/FingerPOSErecognition) : hand pose recognition_Team Project_Hongik University
