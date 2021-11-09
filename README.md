@@ -17,6 +17,8 @@
 - [fingerPOSErecognition](https://github.com/LeeeJooo/FingerPOSErecognition) : hand pose recognition_Team Project_Hongik University
 - [projectSOOWA](https://github.com/LeeeJooo/projectSOOWA) : hand gesture (+ Sign Language) recognition_Team Project_for Graduation_Hongik University
 
+ # STUDY
+ - [RECOMMENDER_SYSTEM](https://github.com/LeeeJooo/RECOMMENDER_SYSTEM.git) : study about recommender system
 <!--
 ![footer](https://capsule-render.vercel.app/api?type=slice&color=9100ff&height=130&section=footer)
 -->
