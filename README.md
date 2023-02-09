@@ -10,7 +10,7 @@
 <!-- ABOUT ME -->
 <div align=center><h3>🌻ABOUT ME🌻</div>
 <div align=center>
-<a href="https://juubii.tistory.com/"> <img src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://byul91oh.tistory.com/" style="height : auto; margin-left : 10px; margin-right : 10px;"/> </a> <a href="https://instagram.com/jooobidubabba/"> <img src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/fivepxint/" style="height : auto; margin-left : 10px; margin-right : 10px;"/> </a> </div>
+<a href="https://jubidubab.tistory.com/"> <img src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://byul91oh.tistory.com/" style="height : auto; margin-left : 10px; margin-right : 10px;"/> </a> <a href="https://instagram.com/mangae1004/"> <img src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/fivepxint/" style="height : auto; margin-left : 10px; margin-right : 10px;"/> </a> </div>
 
 
 # PROJECT
