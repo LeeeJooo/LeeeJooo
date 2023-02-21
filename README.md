@@ -19,6 +19,7 @@
 
  # STUDY
  - [RECOMMENDER_SYSTEM](https://github.com/LeeeJooo/RECOMMENDER_SYSTEM.git) : study about recommender system
+ - [ALGORITHM] (https://github.com/songhee-lee/2023-python-coding-test) : study about Algorithm
 <!--
 ![footer](https://capsule-render.vercel.app/api?type=slice&color=9100ff&height=130&section=footer)
 -->
