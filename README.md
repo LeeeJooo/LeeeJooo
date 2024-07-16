@@ -1,9 +1,12 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=f8f690&height=200&section=header&text=Leee%20Jooo&fontSize=80)
-
+# JUBIDUBAB
 
 <!-- TECH STACK -->
 <div align=center><h3>🛠️Tech Stack🛠️</div>  
-<div align=center><img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/></a> <img src="https://img.shields.io/badge/C++-A8B9CC?style=flat&logo=cplusplus&logoColor=white"/></a> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></a>
+<div align=center>
+ <img src="https://img.shields.io/badge/C%23-A8B9CC?style=flat&logo=sharp&logoColor=white"/></a> 
+ <img src="https://img.shields.io/badge/C++-A8B9CC?style=flat&logo=cplusplus&logoColor=white"/></a> 
+ <img src="https://img.shields.io/badge/Java-A8B9CC?style=flat-square&logo=Java&logoColor=white"/></a> 
+ <img src="https://img.shields.io/badge/23-A8B9CC?style=flat&logo=Python&logoColor=white"/></a>
 </div>
 
 
@@ -14,14 +17,10 @@
 
 
 # PROJECT
-- [fingerPOSErecognition](https://github.com/LeeeJooo/FingerPOSErecognition) : hand pose recognition_Team Project_Hongik University
-- [projectSOOWA](https://github.com/LeeeJooo/projectSOOWA) : hand gesture (+ Sign Language) recognition_Team Project_for Graduation_Hongik University
+### Game Server
+- [EXPLORER](https:///github.com/LeeeJooo/GAMESERVER-EXPLORER) : Game Server Project for Multiplay Cooperative Survival RPG with JAVA
+- [KOKOPANG](https://github.com/LeeeJooo/GAMESERVER-KOKOPANG) : Game Server Project for Multiplay Survival RPG with JAVA
 
- # STUDY
- - [RECOMMENDER_SYSTEM](https://github.com/LeeeJooo/RECOMMENDER_SYSTEM.git) : study about recommender system
- - [ALGORITHM](https://github.com/songhee-lee/2023-python-coding-test) : study about Algorithm
- - [DEEPLEARNING](https://github.com/LeeeJooo/DeepLearning) : study about DeepLearning
-   - [ARCHITECTURE](https://github.com/LeeeJooo/DeepLearning/tree/main/Architecture) : study about DeepLearning Architecture
 <!--
 ![footer](https://capsule-render.vercel.app/api?type=slice&color=9100ff&height=130&section=footer)
 -->
