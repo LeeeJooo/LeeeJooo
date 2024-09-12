@@ -20,7 +20,8 @@
 ### Game Server
 - [EXPLORER](https:///github.com/LeeeJooo/GAMESERVER-EXPLORER) : Game Server Project for Multiplay Cooperative Survival RPG with JAVA
 - [KOKOPANG](https://github.com/LeeeJooo/GAMESERVER-KOKOPANG) : Game Server Project for Multiplay Survival RPG with JAVA
-- [EdgeRunner](https://github.com/LeeeJooo/MiniGame_EdgeRunner) : COM2US 6th Internship Genius GameJam Project 1
+- [EdgeRunner](https://github.com/LeeeJooo/GameJam_EdgeRunner) : **Ball Game**_COM2US 6th Internship Genius GameJam Project 1
+- [LoopRunner](https://github.com/LeeeJooo/GameJam_LoopRunner) : **Ball Game**_COM2US 6th Internship Genius GameJam Project 2
 
 <!--
 ![footer](https://capsule-render.vercel.app/api?type=slice&color=9100ff&height=130&section=footer)
